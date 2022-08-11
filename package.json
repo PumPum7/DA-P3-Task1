@@ -1,0 +1,17 @@
+{
+  "name": "da-p2-t3",
+  "version": "1.0.0",
+  "description": "Task 3 Dogecapital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pum",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.0",
+    "@solana/web3.js": "^1.52.0",
+    "dotenv": "^16.0.1"
+  }
+}
